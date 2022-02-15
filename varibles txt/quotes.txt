@@ -1,0 +1,5 @@
+const Quote = require('inspirational-quotes');
+
+var myQuote = Quote.getRandomQuote();
+
+console.log(myQuote);

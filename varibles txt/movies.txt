@@ -1,0 +1,5 @@
+const movieQuote = require("popular-movie-quotes");
+
+var MovieQuote = Quote.getRandomQuote();
+
+console.log(movieQuote.getRandomQuote()); // random movie quote
