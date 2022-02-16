@@ -18,7 +18,7 @@ const lib = require('thoughts');
 var random = lib.random();
 console.log(random);
 
-
+//this is new content for GitHub
 const movieQuote = require("popular-movie-quotes");
 var MovieQuote = Quote.getRandomQuote();
 console.log(movieQuote.getRandomQuote()); // random movie quote
